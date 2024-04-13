@@ -16,7 +16,7 @@ var numberOfPlayers = 2
 
 func main() {
 	fmt.Printf("Tic Tac Toe\n============\n")
-	fmt.Printf("enter the coordinates to fill, ex: 2 3\n\n")
+	fmt.Printf("enter the coordinates to fill, ex: 2 1\n\n")
 	drawGrid()
 	gameLoop()
 }
